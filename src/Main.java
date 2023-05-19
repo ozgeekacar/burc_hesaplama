@@ -6,7 +6,7 @@ public class Main {
         System.out.print("doğum gününüz: ");
         int day = s1.nextInt();
         Scanner s2 = new Scanner(System.in);
-        System.out.print("doğum yılınız: ");
+        System.out.print("doğum ayınız: ");
         int month = s2.nextInt();
         if (month > 0 && month < 13) {
 
